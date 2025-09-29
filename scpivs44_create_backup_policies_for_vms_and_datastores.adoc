@@ -48,7 +48,7 @@ No modo vinculado, cada vCenter tem um dispositivo virtual separado. Portanto, v
 
 ** Carateres não suportados
 +
-Não use os seguintes carateres especiais em nomes de VM, datastore, cluster, política, backup ou grupo de recursos: % E * / : * ? " > - | ; " , .
+Não use os seguintes caracteres especiais em nomes de VM, armazenamento de dados, cluster, política, backup ou grupo de recursos: % & * $ # @ ! \ / : * ?  " < > - | ; ' e espaço.
 
 +
 Um caractere de sublinhado (_) é permitido.
